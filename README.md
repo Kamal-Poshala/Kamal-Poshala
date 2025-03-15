@@ -2,9 +2,8 @@
 
 ![Banner](https://github.com/Kamal-Poshala/Kamal-Poshala/blob/main/Hi%20there%2C%20My%20name%20is%20Kamal%20Poshala.gif) <!-- Replace with your actual banner URL -->
 
-<a href='mailto:kamalposhalap.com'>
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamalposhalap.com)
+
 
 </div>
 
@@ -74,7 +73,7 @@
 
 ### **💻 Cyberpunk Matrix Code Rain**
 <div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="10%">
 </div>
 
 ---
