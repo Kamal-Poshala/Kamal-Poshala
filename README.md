@@ -39,7 +39,7 @@
 
 ---
 
-## ⚙️ Tools and Languages I am Learning:
+## ⚙️ Tools and Languages:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
