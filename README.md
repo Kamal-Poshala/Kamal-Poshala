@@ -7,7 +7,8 @@
 💡 **Currently Learning:**  
 - 💀 Blockchain Technologies  
 - 💎 Smart Contract Development  
-- 💻 Java, C, Python Programming  
+- 💻 Java, C, Python Programming
+- Working on the IPMS project with a team 
 
 ---  
 
@@ -29,8 +30,7 @@
 ---  
 
 ## 📧 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-poshala-6431611a7/)  
 [![Website](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourwebsite.com)  
 
 ---  
