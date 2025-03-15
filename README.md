@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kamal Poshala  
 
-![Banner](https://your-image-url.com)  
+![Banner](https://files.oaiusercontent.com/file-LiygPrhKUSsQv14bwaEtCe?se=2025-03-15T03%3A20%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dac0982ba-eb52-4a77-9771-aaf2380c13c9.webp&sig=nhDqrb0Q4/ZyYh7wNRKPwmiiLElgPMVbw5ibFsUtPhY%3D)  
 
 ## ✨ Enthusiastic Seeker & Learner | Web3 Developer | Open Source Contributor
 
