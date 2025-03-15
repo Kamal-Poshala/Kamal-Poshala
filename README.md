@@ -55,11 +55,11 @@
 
 ## 🔥 My Stats  
 
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&theme=tokyonight&hide_border=true)
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&theme=radical&hide_border=true)
 
 ## 📈 Contributions  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=tokyonight&hide_border=true)
- 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=radical&hide_border=true)
+
 
 ---
 
@@ -77,9 +77,7 @@
 
 🌟 **Let's Build The Future of Web3 Together!** 🌟  
 
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=radical&hide_border=true)
 
 [![Kamal's GitHub | Topics](https://stats.quine.sh/Kamal-Poshala/topics-over-time?theme=radical)](https://quine.sh)
 
