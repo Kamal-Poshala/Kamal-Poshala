@@ -41,4 +41,3 @@
 
 🌟 **Let's Build The Future of Web3 Together!** 🌟  
 
-**Profile Background Color:** Ambient Dark Blue
