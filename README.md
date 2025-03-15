@@ -51,13 +51,17 @@
 
 
 </div>
-<div>
-  ## Technologies I am Learning
+---
+<div align='center'>
+
+## 🚀 Tech I am Learning:
+
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)  
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 </div>
+
 ---
 
 <div align='center'>
