@@ -55,11 +55,11 @@
 
 ## 🔥 My Stats  
 
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&cache_seconds=86400&theme=midnight-purple&hide_border=true)  
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&theme=dracula&hide_border=true)
 
 ## 📈 Contributions  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=midnight-purple&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=dracula&hide_border=true)
+ 
 
 ---
 
@@ -76,3 +76,11 @@
 ---
 
 🌟 **Let's Build The Future of Web3 Together!** 🌟  
+
+
+
+
+[![Kamal's GitHub | Topics](https://stats.quine.sh/Kamal-Poshala/topics-over-time?theme=dracula)](https://quine.sh)
+
+[![Kamal's GitHub | Languages Over Time](https://stats.quine.sh/Kamal-Poshala/languages-over-time?theme=dracula)](https://quine.sh)
+
