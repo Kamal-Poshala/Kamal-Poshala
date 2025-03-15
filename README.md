@@ -10,9 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff00ff&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Cyberpunk+GitHub!;AI+%7C+ML+%7C+Web3+Enthusiast;Open+Source+Contributor+🚀" alt="Typing SVG" />
-  <br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff00ff&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;AI+%7C+ML+%7C+Web3+Enthusiast;Open+Source+Contributor+🚀" alt="Typing SVG" />
 </div>
 
 ---
@@ -50,6 +48,8 @@
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-ff00ff?style=flat&logo=ai&logoColor=white)  
 
+ <br>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%">
 </div>
 
 ---
