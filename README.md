@@ -1,14 +1,24 @@
 <div align='center'>
 
-![Head](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
+![Banner](https://your-banner-image-url.com) <!-- Replace with your actual banner URL -->
 
 <a href='mailto:your-email@example.com'>
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 </a>
 
-![about](https://github.com/KarthikeyaEnge/KarthikeyaEnge/blob/main/about.png)
-
 </div>
+
+---
+
+# Hi there! 👋 I'm **Kamal Poshala**  
+
+## ✨ Enthusiastic Seeker & Learner | Web3 Developer | Open Source Contributor  
+
+💡 **Currently Learning:**  
+- 💀 Blockchain Technologies  
+- 💎 Smart Contract Development  
+- 💻 Java, C, Python Programming  
+- 🚀 Working on the **IPMS project** with a team  
 
 ---
 
@@ -19,7 +29,7 @@
 ![](https://img.shields.io/badge/-Smart%20Contracts-green)
 ![](https://img.shields.io/badge/-Web%203-orange)
 ![](https://img.shields.io/badge/-Open%20Source%20Contribution-red)  
-<img src='https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/think.gif' width="200" height="200"  align='right' top='0'>    
+<img src='https://your-image-url.com' width="200" height="200"  align='right' top='0'> <!-- Replace with your actual image URL -->
 
 </div>
 
@@ -31,13 +41,27 @@
 
 ## ⚙️ Tools and Languages:
 
-![Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,git)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-![Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,solidity,ethereum)  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ### 📖 Skills I'm Learning:
 
-![Learning Skills](https://skillicons.dev/icons?i=django,redux,firebase,next,astro,graphql)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  
 
 </div>
 
