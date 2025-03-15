@@ -25,12 +25,14 @@
 ## 👀 My Interests:
 <div>   
 
-![](https://img.shields.io/badge/-Artificial%20Intelligence-purple)
-![](https://img.shields.io/badge/-Machine%20Learning-blue)
-![](https://img.shields.io/badge/-Web%203-orange)
+![](https://img.shields.io/badge/-Artificial%20Intelligence-purple)  
+![](https://img.shields.io/badge/-Machine%20Learning-blue)  
+![](https://img.shields.io/badge/-Web%203-orange)  
 ![](https://img.shields.io/badge/-Open%20Source%20Contribution-red)  
+![](https://img.shields.io/badge/-Programming-green)  
 
 </div>
+
 
 
 `"The best way to predict the future is to create it." 🚀`
