@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Banner](https://www.canva.com/design/DAGhw4xBrW4/P_GyeP9f6pks29cn60AoYA/watch?utm_content=DAGhw4xBrW4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha88eb04513) <!-- Replace with your actual banner URL -->
+![Banner]("C:\Users\kamal\Downloads\Hi there, My name is Kamal Poshala.mp4") <!-- Replace with your actual banner URL -->
 
 <a href='mailto:kamalposhalap.com'>
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
