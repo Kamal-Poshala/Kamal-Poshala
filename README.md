@@ -77,16 +77,14 @@
 
 🌟 **Let's Build The Future of Web3 Together!** 🌟  
 
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&theme=synthwave&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=synthwave&hide_border=true)
+
+[![Kamal's GitHub | Topics](https://stats.quine.sh/Kamal-Poshala/topics-over-time?theme=synthwave)](https://quine.sh)
+
+[![Kamal's GitHub | Languages Over Time](https://stats.quine.sh/Kamal-Poshala/languages-over-time?theme=synthwave)](https://quine.sh)
 
 
 
-
-[![Kamal's GitHub | Topics](https://stats.quine.sh/Kamal-Poshala/topics-over-time?theme=tokyonight)](https://quine.sh)
-
-[![Kamal's GitHub | Languages Over Time](https://stats.quine.sh/Kamal-Poshala/languages-over-time?theme=tokyonight)](https://quine.sh)
-
-
-[![Kamal's GitHub | Topics](https://stats.quine.sh/Kamal-Poshala/topics-over-time?theme=dracula)](https://quine.sh)
-
-[![Kamal's GitHub | Languages Over Time](https://stats.quine.sh/Kamal-Poshala/languages-over-time?theme=dracula)](https://quine.sh)
 
