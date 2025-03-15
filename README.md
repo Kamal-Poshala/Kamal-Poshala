@@ -11,7 +11,7 @@
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+My+Cyberpunk+GitHub!;AI+%7C+ML+%7C+Web3+Enthusiast;Open+Source+Contributor+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+Kamal's+GitHub+Profile!;AI+%7C+ML+%7C+Web3+Enthusiast;Open+Source+Contributor+🚀" alt="Typing SVG" />
 </h1>
 
 ---
