@@ -29,7 +29,7 @@
 ![](https://img.shields.io/badge/-Smart%20Contracts-green)
 ![](https://img.shields.io/badge/-Web%203-orange)
 ![](https://img.shields.io/badge/-Open%20Source%20Contribution-red)  
-<img src='https://your-image-url.com' width="200" height="200"  align='right' top='0'> <!-- Replace with your actual image URL -->
+
 
 </div>
 
