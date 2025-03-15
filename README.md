@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Kamal-Poshala/Kamal-Poshala/blob/main/Hi%20there%2C%20My%20name%20is%20Kamal%20Poshala.gif) <!-- Replace with your actual banner URL -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamalposhalap.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kamalposhalap@gmail.com)
 
 </div>
 
