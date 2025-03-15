@@ -41,3 +41,6 @@
 
 🌟 **Let's Build The Future of Web3 Together!** 🌟  
 
+<div align="center">
+    <img src="https://wallpaperaccess.com/full/17520.jpg" width="100%">
+</div>
