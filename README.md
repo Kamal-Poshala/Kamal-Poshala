@@ -1,17 +1,18 @@
 <div align='center'>
 
-![Banner](https://files.oaiusercontent.com/file-LiygPrhKUSsQv14bwaEtCe?se=2025-03-15T03%3A20%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dac0982ba-eb52-4a77-9771-aaf2380c13c9.webp&sig=nhDqrb0Q4/ZyYh7wNRKPwmiiLElgPMVbw5ibFsUtPhY%3D)
+![Head](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
 
-# 👋 Hi there! I'm **Kamal Poshala**  
+<a href='mailto:your-email@example.com'>
+![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
+</a>
 
-## ✨ Enthusiastic Seeker & Learner | Web3 Developer | Open Source Contributor  
+![about](https://github.com/KarthikeyaEnge/KarthikeyaEnge/blob/main/about.png)
 
 </div>
 
 ---
 
 ## 👀 My Interests:
-
 <div>   
 
 ![](https://img.shields.io/badge/-Blockchain%20Development-blue)
@@ -42,19 +43,17 @@
 
 ---
 
-## 🔥 My Stats:
-
 <div align='center'>
 
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&cache_seconds=86400&theme=radical&hide_border=true)  
+## 🔥 My Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=radical&hide_border=true)  
-
-[![Kamal's GitHub | Stats](https://stats.quine.sh/Kamal-Poshala/github?theme=dark)](https://quine.sh)  
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&cache_seconds=86400&theme=midnight-purple&hide_border=true)  
 
 ## 📈 Contributions  
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamal-Poshala&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kamal-Poshala&theme=midnight-purple&hide_border=true)  
+
+[![Kamal's GitHub | Stats](https://stats.quine.sh/Kamal-Poshala/github?theme=dark)](https://quine.sh)  
 
 ## 🗺️ Tech HeatMap  
 
@@ -67,7 +66,6 @@
 ---
 
 ## 📧 Connect With Me:
-
 <div align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-poshala-6431611a7/)  
