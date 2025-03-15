@@ -58,9 +58,11 @@
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)  
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)  
- 
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-purple)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)  
 
 </div>
+
 
 ---
 
