@@ -25,7 +25,7 @@
 - ![ML](https://img.shields.io/badge/-Machine%20Learning-000?style=flat&logo=tensorflow) **Machine Learning**  
 - ![Web3](https://img.shields.io/badge/-Web3-000?style=flat&logo=ethereum) **Web3 Development**  
 - ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) **Java, C, Python Programming**  
-- 🚀 Working on the **IPMS project** with a team  
+ 
 
 ---
 
