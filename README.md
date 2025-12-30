@@ -55,24 +55,27 @@ My focus is on building scalable applications, experimenting with data-driven mo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamal-Poshala&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Kamal-Poshala/github-stats/main/stats.svg" />
 </p>
+
 
 ---
 
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kamal-Poshala&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Kamal-Poshala/github-stats/main/streak.svg" />
 </p>
+
 
 ---
 
 ## 📈 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal-Poshala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Kamal-Poshala/github-stats/main/languages.svg" />
 </p>
+
 
 ---
 
