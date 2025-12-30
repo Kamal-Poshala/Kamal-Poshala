@@ -1,8 +1,8 @@
 <div align='center'>
 
-![Banner](https://github.com/Kamal-Poshala/Kamal-Poshala/blob/main/Hi%20there%2C%20My%20name%20is%20Kamal%20Poshala.gif) <!-- Replace with your actual banner URL -->
+![Banner]() <!-- Replace with your actual banner URL -->
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:kamalposhalap@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Me">
 </a>
 
@@ -20,32 +20,18 @@
 
 ## ✨ Enthusiastic Seeker & Learner | AI/ML & Web3 Developer | Open Source Contributor  
 
-💡 **Currently Learning:**  
-- ![AI](https://img.shields.io/badge/-AI-000?style=flat&logo=openai) **Artificial Intelligence**  
-- ![ML](https://img.shields.io/badge/-Machine%20Learning-000?style=flat&logo=tensorflow) **Machine Learning**  
-- ![Web3](https://img.shields.io/badge/-Web3-000?style=flat&logo=ethereum) **Web3 Development**  
-- ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) **Java, C, Python Programming**  
- 
-
----
-
 ## 👀 My Interests:
 <div>   
 
 - ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-000?style=flat&logo=openai) **Artificial Intelligence**  
 - ![ML](https://img.shields.io/badge/-Machine%20Learning-000?style=flat&logo=tensorflow) **Machine Learning**  
-- ![Programming](https://img.shields.io/badge/-Programming-000?style=flat&logo=codeforces) **Programming**  
+- ![Programming](https://img.shields.io/badge/-Programming-000?style=flat&logo=codeforces) **Programming**
+- ![Web3](https://img.shields.io/badge/-Web3-000?style=flat&logo=ethereum) **Web3 Development**  
+- ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) **Java, C, Python Programming**   
 - ![Open Source](https://img.shields.io/badge/-Open%20Source-000?style=flat&logo=github) **Open Source Contribution**  
 
 </div>
 
----
-
-## 🚀 Tech I am Learning:
-
-- ![Solidity](https://img.shields.io/badge/-Solidity-000?style=flat&logo=solidity) **Solidity**  
-- ![Ethereum](https://img.shields.io/badge/-Ethereum-000?style=flat&logo=ethereum) **Ethereum**  
-- ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) **React**  
 
 ---
 
