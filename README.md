@@ -47,34 +47,8 @@ My focus is on building scalable applications, experimenting with data-driven mo
 
 ### Databases & Tools
 - **MongoDB**
-- Git & GitHub
-- RESTful APIs
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kamal-Poshala/github-stats/main/stats.svg" />
-</p>
-
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kamal-Poshala/github-stats/main/streak.svg" />
-</p>
-
-
----
-
-## 📈 Language Usage
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kamal-Poshala/github-stats/main/languages.svg" />
-</p>
+- **Git & GitHub**
+- **RESTful APIs**
 
 
 ---
@@ -90,13 +64,6 @@ My focus is on building scalable applications, experimenting with data-driven mo
   </a>
 </p>
 
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Kamal-Poshala/count.svg" />
-</p>
 
 ---
 
