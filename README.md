@@ -59,7 +59,7 @@ My focus is on building scalable applications, experimenting with data-driven mo
   <a href="https://www.linkedin.com/in/kamal-poshala-6431611a7/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com">
+  <a href="https://portfolio-chi-taupe-80.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Personal_Website-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
