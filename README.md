@@ -86,6 +86,13 @@ More on my **[portfolio →](https://kamal-poshala-portfolio.vercel.app)**
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamal-Poshala/Kamal-Poshala/output/snake-dark.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/Kamal-Poshala/Kamal-Poshala/output/snake-light.svg" />
+</picture>
+
+<br><br>
+
 <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamal-Poshala&theme=tokyonight" alt="Profile summary" />
 
 <img width="405" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamal-Poshala&theme=tokyonight" alt="Stats" />
