@@ -29,13 +29,16 @@ software that holds up under load. Open to full-time software engineering roles.
 
 | Project | Summary | Stack |
 | --- | --- | --- |
+| **DocMind** *(private)* | Agentic RAG document assistant — an agent loop lets the model decide when to search a pgvector index, then streams grounded answers. Chunking, local embeddings, and retrieval built from scratch; provider-agnostic across Gemini, Anthropic, Groq, OpenRouter, and Ollama; retrieval hit-rate@3 checked in CI. | Next.js · FastAPI · PostgreSQL / pgvector · LLM tool use |
+| **StockSense** *(private)* | AI inventory forecasting — a global gradient-boosting model with p10 / p50 / p90 forecasts, backtested against baselines (on synthetic demo data, ~13% lower error than seasonal-naive), plus a Claude tool-use agent that answers what-if order questions. | FastAPI · scikit-learn · PostgreSQL · React · Claude API |
 | **[SyncSpace](https://github.com/Kamal-Poshala/syncspace)** ·&nbsp;[demo](https://syncspace-frontend-six.vercel.app/) | Real-time collaborative workspace: WebSocket concurrent editing, live presence, JWT-secured RBAC. Cut MongoDB write load ~60% under sustained edit bursts with a debounced buffer. | React · TypeScript · Node · Socket.IO · MongoDB |
 | **[DeepDub](https://github.com/Kamal-Poshala/DeepDubAI)** | End-to-end video dubbing and lip-sync pipeline — ASR → translation → TTS → GAN lip-sync — orchestrated asynchronously with FastAPI, Celery, and Redis, with per-stage fault isolation. | PyTorch · Whisper · Wav2Lip · FastAPI · Celery |
 | **[Multilingual Polarization Detection](https://github.com/Kamal-Poshala/multilingual_polarization_detection)** | SemEval 2026 task — polarization classification across 22 languages on mBERT / mT5 with parameter-efficient LoRA fine-tuning. Macro F1 **0.87** while training **60% fewer** parameters than full fine-tuning. | PyTorch · LoRA · mBERT · mT5 |
 | **[CogniFetch](https://github.com/Kamal-Poshala/CogniFetch)** | NLP search and retrieval engine: TF-IDF + cosine ranking over 10,000+ academic documents, **sub-50 ms p95** via inverted-index design, plus an OCR pipeline for 2,000+ scanned PDFs. | Node · TF-IDF · MongoDB · React · OCR |
 | **[IPMS](https://github.com/Kamal-Poshala/IPMS)** | Distributed multi-role approval workflow — RBAC + JWT, 15+ REST endpoints, 1,000+ transaction events with a centralized audit log. Cron-scheduled reminders cut approval turnaround **40%**. | Node · Express · MongoDB · Cron |
+| **SRL Academic Ancestry** *(private)* | Research-lineage platform for a university lab — relational schema, password-gated Streamlit app, generation-by-generation tree visualization with PNG / PDF / Excel export, a tested SQLite → PostgreSQL migration path, and 56 passing tests. | Python · Streamlit · SQLite / PostgreSQL |
 
-More on my **[portfolio →](https://portfolio-chi-taupe-80.vercel.app)**
+More on my **[portfolio →](https://portfolio-chi-taupe-80.vercel.app)** &nbsp;·&nbsp; *(private)* = repository not public
 
 ---
 
@@ -62,6 +65,7 @@ More on my **[portfolio →](https://portfolio-chi-taupe-80.vercel.app)**
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
@@ -74,12 +78,16 @@ More on my **[portfolio →](https://portfolio-chi-taupe-80.vercel.app)**
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
 <img src="https://img.shields.io/badge/Tiptap-000000?style=flat-square&logo=tiptap&logoColor=white" alt="Tiptap">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
 <p><b>Databases &amp; Data</b><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" alt="pgvector">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
 <img src="https://img.shields.io/badge/TF--IDF_/_Inverted_Index-4B5563?style=flat-square" alt="TF-IDF / Inverted Index">
 </p>
 
@@ -92,6 +100,9 @@ More on my **[portfolio →](https://portfolio-chi-taupe-80.vercel.app)**
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/RAG_/_Vector_Search-4B5563?style=flat-square" alt="RAG / Vector Search">
+<img src="https://img.shields.io/badge/LLM_Agents_/_Tool_Use-4B5563?style=flat-square" alt="LLM Agents / Tool Use">
+<img src="https://img.shields.io/badge/Time--Series_Forecasting-4B5563?style=flat-square" alt="Time-Series Forecasting">
 </p>
 
 <p><b>Speech &amp; Vision AI</b><br>
