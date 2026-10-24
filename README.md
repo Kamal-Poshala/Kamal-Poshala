@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kamal-poshala-portfolio.vercel.app">
+  <a href="https://portfolio-chi-taupe-80.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/kamal-poshala-6431611a7/">
@@ -35,7 +35,7 @@ software that holds up under load. Open to full-time software engineering roles.
 | **[CogniFetch](https://github.com/Kamal-Poshala/CogniFetch)** | NLP search and retrieval engine: TF-IDF + cosine ranking over 10,000+ academic documents, **sub-50 ms p95** via inverted-index design, plus an OCR pipeline for 2,000+ scanned PDFs. | Node · TF-IDF · MongoDB · React · OCR |
 | **[IPMS](https://github.com/Kamal-Poshala/IPMS)** | Distributed multi-role approval workflow — RBAC + JWT, 15+ REST endpoints, 1,000+ transaction events with a centralized audit log. Cron-scheduled reminders cut approval turnaround **40%**. | Node · Express · MongoDB · Cron |
 
-More on my **[portfolio →](https://kamal-poshala-portfolio.vercel.app)**
+More on my **[portfolio →](https://portfolio-chi-taupe-80.vercel.app)**
 
 ---
 
